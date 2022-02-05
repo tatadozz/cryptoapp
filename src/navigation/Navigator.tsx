@@ -56,8 +56,8 @@ const Navigator = () => {
                       source={require('../../assets/favorites.png')}
                       resizeMode="contain"
                       style={{
-                        width: 42, 
-                        height: 42, 
+                        width: 38, 
+                        height: 38, 
                         tintColor: focused ? '#FFFFFF' : '#b9b7b9'
                       }}
                    />
